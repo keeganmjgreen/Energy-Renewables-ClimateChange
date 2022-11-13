@@ -5,10 +5,10 @@ This page accompanies a series of interesting, significant, and actionable facts
 The intended audience of the series is you! Chances are, you're a human living on planet Earth. You (almost without a doubt) are a contributor to climate change and play a role (albeit a small one — probably) in its driving forces. This is the case whether you know it or not, and whether you ignore it or try to have a positive impact. But this means that you can choose to try to mitigate the causes of climate change and help others to do the same by openly discussing the topic and ways to address it.
 
 I will try to post new items in the series to all of the following social media sites:
-- LinkedIn — [linkedin.com/in/keegan-green](linkedin.com/in/keegan-green)
-- Twitter — [twitter.com/keeganmjgreen](twitter.com/keeganmjgreen)
-- Instagram — [instagram.com/keeganmjgreen](instagram.com/keeganmjgreen)
-- Reddit — [reddit.com/user/bdkrqdln](reddit.com/user/bdkrqdln)
+- LinkedIn — [linkedin.com/in/keegan-green](https://www.linkedin.com/in/keegan-green/)
+- Twitter — [twitter.com/keeganmjgreen](https://twitter.com/keeganmjgreen)
+- Instagram — [instagram.com/keeganmjgreen](https://www.instagram.com/keeganmjgreen/)
+- Reddit — [reddit.com/user/bdkrqdln](https://www.reddit.com/user/bdkrqdln)
 
 An archive of previous posts can be found [here](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37).
 
