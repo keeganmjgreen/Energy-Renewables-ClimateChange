@@ -5,12 +5,12 @@ This page accompanies a series of interesting, significant, and actionable facts
 The intended audience of the series is you! Chances are, you're a human living on planet Earth. You (almost without a doubt) are a contributor to climate change and play a role (albeit a small one — probably) in its driving forces. This is the case whether you know it or not, and whether you ignore it or try to have a positive impact. But this means that you can choose to try to mitigate the causes of climate change and help others to do the same by openly discussing the topic and ways to address it.
 
 I will try to post new items in the series to all of the following social media sites:
-- LinkedIn
-- Twitter
-- Instagram
-- Reddit
+- LinkedIn — [linkedin.com/in/keegan-green](linkedin.com/in/keegan-green)
+- Twitter — [twitter.com/keeganmjgreen](twitter.com/keeganmjgreen)
+- Instagram — [instagram.com/keeganmjgreen](instagram.com/keeganmjgreen)
+- Reddit — [reddit.com/user/bdkrqdln](reddit.com/user/bdkrqdln)
 
-An archive of previous posts will be made available.
+An archive of previous posts can be found [here](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37).
 
 The series strives to be as factually accurate, interesting (though not at the cost of accuracy), and meaningful as possible.
 However, it is naturally biased toward my goal of trying to mitigate climate change as best I can and in a few different ways, one of which is discussing the topic through this series. Furthermore, I am naturally biased because I work at a tech company (albeit a small one) in the renewable energy industry.
@@ -24,15 +24,15 @@ Please suggest new items in the series, report mistakes, make other recommendati
 
 ### Suggesting a new fact or item in the series
 
-If you have researched a new piece of information that you would like to recommend to be included in the series, you will be able to make your suggestion on a dedicated web form.
+If you have researched a new piece of information that you would like to recommend to be included in the series, please make your suggestion [here](https://docs.google.com/forms/d/e/1FAIpQLScummAJARGYv84WedWeWWNLIfoZW3sZHZy-fbDBw3CKPfxbaw/viewform?usp=sf_link). For a version of the web form that lets you upload files directly (but requires signing into Google), please see [here](https://docs.google.com/forms/d/e/1FAIpQLSeob1O6IueywSa-yI1u0FiQciQwEdsu5ssdZut7D60vVd4QgQ/viewform?usp=sf_link). Thank you for your contribution!
 
 ### Reporting an typo, mistake, or inaccuracy
 
-If you've found or think you've found a typo, mistake, or inaccuracy, you will be able to report it on a dedicated web form.
+If you've found or think you've found a typo, mistake, or inaccuracy, please report it [here](https://docs.google.com/forms/d/e/1FAIpQLScWlokVWNet180dFDHNrSkVYIUc9zNDD0P61xFoY4IlgL3_QA/viewform?usp=sf_link).
 
 ### Making other recommendations or voicing your comments or opinions
 
-If you would like to make a recommendation besides a new item for the series or resolving an error, you will be able to do so on a dedicated web form.
+If you would like to make a recommendation besides a new item for the series or resolving an error, please do so [here](https://docs.google.com/forms/d/e/1FAIpQLSef-LJhqCwuS3EgLuBeDsvV1blIaq9KKAm76jXy92TgKeYONg/viewform?usp=sf_link).
 
 
 ## Sources of information
