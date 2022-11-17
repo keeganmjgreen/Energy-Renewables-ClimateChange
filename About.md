@@ -1,6 +1,6 @@
-# Energy, Renewables, and Fighting Climate Change
+![](https://raw.githubusercontent.com/keeganmjgreen/Energy-Renewables-ClimateChange/main/img/logo_circular_banner.png)
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/Energy-Renewables-ClimateChange/main/img/logo_circular.png" style="zoom:10%;" />
+# Energy, Renewables, and Fighting Climate Change
 
 This page accompanies a series of interesting, significant, and actionable facts and pieces of information about energy, renewables, and fighting climate change. The series also includes pieces of news, and relevant projects being worked on around the world. The series is as much about actionable advice and ways of looking at and addressing the problem of climate change as it is about the statistics and technical aspects of the problem.
 
