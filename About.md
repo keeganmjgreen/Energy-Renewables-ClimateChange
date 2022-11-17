@@ -1,5 +1,7 @@
 # Energy, Renewables, and Fighting Climate Change
 
+![]("https://raw.githubusercontent.com/keeganmjgreen/Energy-Renewables-ClimateChange/main/img/logo_circular.png")
+
 This page accompanies a series of interesting, significant, and actionable facts and pieces of information about energy, renewables, and fighting climate change. The series also includes pieces of news, and relevant projects being worked on around the world. The series is as much about actionable advice and ways of looking at and addressing the problem of climate change as it is about the statistics and technical aspects of the problem.
 
 The intended audience of the series is you! Chances are, you're a human living on planet Earth. You (almost without a doubt) are a contributor to climate change and play a role (albeit a small one — probably) in its driving forces. This is the case whether you know it or not, and whether you ignore it or try to have a positive impact. But this means that you can choose to try to mitigate the causes of climate change and help others to do the same by openly discussing the topic and ways to address it.
