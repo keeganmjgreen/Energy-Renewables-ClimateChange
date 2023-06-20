@@ -12,12 +12,15 @@ I will try to post new items in the series to all of the following social media 
 - Instagram — [instagram.com/keeganmjgreen](https://www.instagram.com/keeganmjgreen/)
 - Reddit — [reddit.com/user/bdkrqdln](https://www.reddit.com/user/bdkrqdln)
 
-An archive of previous posts can be found [here](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37).
-
 The series strives to be as factually accurate, interesting (though not at the cost of accuracy), and meaningful as possible.
 However, it is naturally biased toward my goal of trying to mitigate climate change as best I can and in a few different ways, one of which is discussing the topic through this series. Furthermore, I am naturally biased because I work at a tech company (albeit a small one) in the renewable energy industry.
 
 I am greatly inspired by Bill Gates' book *How to Avoid a Climate Disaster*. (Though I am by no means advertising it.)
+
+An archive of previous posts can be found at the following link.
+
+| [**Post Archive**](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37) |
+|-----------------------------------------------------------------|
 
 
 ## Contributing to the series
