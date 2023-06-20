@@ -19,8 +19,7 @@ I am greatly inspired by Bill Gates' book *How to Avoid a Climate Disaster*. (Th
 
 An archive of previous posts can be found at the following link.
 
-| [**Post Archive**](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37) |
-|-----------------------------------------------------------------|
+## [Post Archive](https://photos.app.goo.gl/wD3Qo23V8P8Yhnq37)
 
 
 ## Contributing to the series
