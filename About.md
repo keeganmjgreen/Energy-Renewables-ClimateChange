@@ -43,3 +43,7 @@ If you would like to make a recommendation besides a new item for the series or 
 ## Sources of information
 
 This section will include a non-exhaustive list of general sources of information that I use and use in the series.
+
+# Extras
+
+Themed desktop backgrounds / posters can be found [here](https://photos.app.goo.gl/PLADhbTQzZXLvDQJ9), in case you want to tell people how you really feel.
