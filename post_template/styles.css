@@ -1,0 +1,56 @@
+body {
+    font-family: Inter;
+    font-weight: 450;
+    line-height: 1;
+    margin: 4vh;
+    /* padding: 0; */
+    background-color: white;
+}
+
+p {
+    margin-top: 20;
+    margin-bottom: 20;
+}
+
+.container {
+    display: flex;
+}
+
+.column {
+    padding: 2.5vh;
+    box-sizing: border-box;
+}
+
+.left {
+    width: 50%;
+
+    post-title {
+        font-size: 48;
+        background: linear-gradient(to top, rgb(21, 153, 87), rgb(21, 87, 153));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+
+    post-content {
+        font-size: 36;
+    }
+
+    image-caption {
+        font-size: 35;
+        color: gray
+    }
+}
+
+.right {
+    width: 50%;
+    font-size: 35;
+    color: gray
+}
+
+img {
+    height: 80vh;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}

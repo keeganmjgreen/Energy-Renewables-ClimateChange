@@ -1,0 +1,101 @@
+{
+    "title": "ERCC Posts file",
+    "description": "A list of planned posts to social media site(s), each of which contains text, a post image, and optional notes.",
+    "type": "object",
+    "patternProperties": {
+        "^\\d+$": {
+            "type": "object",
+            "properties": {
+                "order": {
+                    "description": "The order in which the post was submitted to the social media site(s).",
+                    "type": "integer"
+                },
+                "text": {
+                    "anyOf": [
+                        {
+                            "description": "The text or message of the social media post, a single string. Can also be a list of strings.",
+                            "type": "string"
+                        },
+                        {
+                            "description": "The text or message of the social media post, a list of strings. Can also be a single string.",
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    ]
+                },
+                "post_image": {
+                    "description": "Elements used to create an image to go with the social media post.",
+                    "type": "object",
+                    "properties": {
+                        "title": {
+                            "anyOf": [
+                                {
+                                    "description": "The title in the post image. , a single string. Can also be a list of strings.",
+                                    "type": "string"
+                                },
+                                {
+                                    "description": "The title in the post image, a list of strings. Can also be a single string.",
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "content": {
+                            "anyOf": [
+                                {
+                                    "description": "The text content in the post image, a single string. Can also be a list of strings.",
+                                    "type": "string"
+                                },
+                                {
+                                    "description": "The text content in the post image, a list of strings. Can also be a single string.",
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "image": {
+                            "description": "Path to the photo or graphic to include in the post image.",
+                            "type": "string"
+                        },
+                        "image_align_h": {
+                            "description": "Horizontal offset to apply to the photo or graphic when cropping it to fit into the post image.",
+                            "type": "integer"
+                        },
+                        "image_credit": {
+                            "description": "Credit or copyright for the photo or graphic.",
+                            "type": "string"
+                        },
+                        "image_caption": {
+                            "description": "Caption for the photo or graphic",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        // "title",
+                        // "content",
+                        // "image"
+                    ],
+                    "additionalProperties": false
+                },
+                "notes": {
+                    "description": "Research or other notes associated with (but not shown in) the post."
+                },
+                "hidden": {
+                    "description": "Whether to omit this post when generating its post image.",
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                // "order",
+                // "text"
+            ],
+            "additionalProperties": false
+        }
+    }
+}

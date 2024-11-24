@@ -1,0 +1,461 @@
+$schema: posts_yml_schema.json
+1:
+  order: 1
+  text:
+    - Read the image---27% isn't as much as I would have expected. It's both a good thing and a bad thing. It's a good thing, of course, because a lower percentage here means fewer tons of CO₂. It's a bad thing because electricity is currently the source of emissions for which I would say we have the most ideas (and the most promising ideas) for reducing emissions---and we'd like those ideas to address as much of the problem as possible. However, as humankind makes electricity generation both cleaner and cheaper, and as we seek to reduce other sectors' emissions, electricity generation will cover more and more industry activities for which we currently burn fossil fuels. That's a good thing.
+  post_image:
+    title: Electricity generation produces 27% of global CO_2 emissions per year---over 13 billion tons.
+    content:
+      - Generating clean electricity is the <b>most important thing</b> we must do to mitigate climate change.
+      - If we can generate enough clean electricity, we can use it to cut down on other sources of emissions, like in manufacturing.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide1/chris-leboutillier-TUJud0AWAPI-unsplash.jpg
+    image_align_h: -945
+    image_credit: Photograph by Chris Leboutillier.
+2:
+  order: 9
+  text: The U.S. Energy Information Administration considers hydroelectricity to be carbon neutral. Researchers find that decomposing plant matter caused by the dammed waters emit 25% more methane than previously thought---a billion tons or 1.3% of human-caused greenhouse gases annually. The research presents opportunities for designing and locating dams to mitigate this effect.
+  post_image:
+    title: Hydroelectric dams are (theoretically) carbon-neutral.
+    content:
+      - However, depending on where it is constructed, building a dam can pollute---for <b>half a century or more</b>---the equivalent over 1 ton of CO_2 per megawatt of electricity generated.
+      - Flooding an area for a dam can release methane produced in high-carbon soil.
+      - That's not including the 1 ton of CO_2 per ton of cement used in the dam.
+      - However, hydro is always an opportunity, and <i>pump-back</i> hydroelectric dams are a unique opportunity for storing massive amounts of energy.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide2/aaron-burden-jPRFzcbR73I-unsplash.jpg
+    image_credit: Photograph by Aaron Burden.
+  notes:
+    - https://www.eia.gov/tools/faqs/faq.php?id=74&t=11
+    - https://duckduckgo.com/?t=ffab&q=hydroelectric+dam+methane&ia=web
+    - https://www.theguardian.com/global-development/2016/nov/14/hydroelectric-dams-emit-billion-tonnes-greenhouse-gas-methane-study-climate-change
+3:
+  order: 5
+  text: With all the talk about wind and solar, it's easy and optimistic to think that these renewable sources have taken over the electricity market, especially in wealthier jurisdictions that can afford decarbonization policymaking on top of the hardware. We still have a long way to go, but we can get there. We just need to remember where we are, so we know what to do.
+  post_image:
+    title:
+      - Think there's a lot of clean electricity?
+      - Not enough, not yet.
+    content:
+      - Over <b>60%</b> of the world's electricity comes from fossil fuels.
+      - Think coal plants are on the way out? They still generate over <b>half</b> of that.
+      - Has fracking given natural gas a bad enough of a name? Not if it's still generating <b>23%</b> of global power like it has been for 30 years.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide3/Berlin-mitte_heizkraftwerk-mitte_20060605_629.jpg
+    image_align_h: -400
+    image_caption: Berlin-Mitte natural gas plant
+4:
+  order: 2
+  text: That's about a fifth of Canada's GDP. Imagine if one out of every five Canadians dedicated their entire livelihood to incentivizing oil and gas. Now imagine every Canadian---better yet, every citizen of Earth---doing their best to mitigate the disaster of climate change as it unfurls. There's a massive scale between going about our lives enabling climate change versus getting to net-zero as effectively as possible. Let's do our part to land as far on the latter end of the spectrum as possible.
+  post_image:
+    title: The International Energy Agency estimates that governments spent $400 billion on fossil fuel subsidies in 2018 alone.
+    content:
+      - Meanwhile, only 9% of the world's electricity comes from wind and solar.
+      - But more and more governments, companies and investors are trusting their billions' worth of funds, time, and energy (pun intended) in renewables.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide4/jean-christophe-gougeon-t8bDFvkhNQY-unsplash.jpg
+    image_align_h: -725
+    image_credit: Photograph by Jean-Christophe Gougeon.
+5:
+  order: 6
+  text:
+    - The AAPowerLink encompasses what is planned to be the world's largest solar farm, largest battery, and longest submarine HVDC cable---a three-point innovation in renewable generation, storing intermittent power, and getting it from where it's produced to where it needs to be. The Australian-manufactured solar farm in Australia's Northern Territory would have a 20-gigawatt capacity---comparable to Ontario's power consumption---and would deliver up to over two gigawatts to Singapore and, later on, Indonesia. As of 2015, Singapore was 95% natural-gas-powered. This project would lower Singapore's CO₂ emissions by 6 million tonnes.
+    - What impresses me most about this project is how the natural resource being `mined' isn't exactly land, solar, or solar panels. More or less, these three resources are theoretically available everywhere. The resource being taken advantage of is the intersection of all three of these. Proximity definitely isn't one of them.
+  post_image:
+    title: Using wind and solar in unfavorable climates calls for building more transmission lines from sunnier, windier locations.
+    content:
+      - Like building a 4200-kilometer undersea transmission line from sunny, spacious Australia all the way to Singapore? That would be the <i>Australia--Asia PowerLink</i>.
+      - Announced earlier last year, the transmission line will supply up to <b>15% of Singapore's electricity</b> by 2027, and will be the longest submarine HVDC cable in the world. HVDC stands for high-voltage <em>direct-current</em>---the opposite of how we transmit large amounts of power over comparably short distances.
+      - When countries work together, everyone prospers.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide5/SC-2021-09-17-031186_SC_AAPL_Project_overview_light_210917_v13-2.png
+    image_align_h: -228
+    image_credit: Diagram by <i>Sun Cable</i>.
+  notes:
+    - https://duckduckgo.com/?q=aapowerlink&t=ffab&ia=web
+    - https://www.forbes.com/sites/jonathanburgos/2022/03/15/australian-billionaires-invest-152-million-in-undersea-solar-power-cable-link-to-singapore/?sh=108581703bf1
+    - https://suncable.energy/
+    - https://en.wikipedia.org/wiki/Australia-Asia_Power_Link
+    - https://www.infrastructureaustralia.gov.au/projects/australia-asia-powerlink
+    - https://www.infrastructureaustralia.gov.au/sites/default/files/2022-06/Evaluation%20Summary%20-%20Australia-Asia%20PowerLink.pdf
+6:
+  order: 3
+  text: ""
+  post_image:
+    title: Any realistic scenario of running a city on solar has a plan for the winter.
+    content:
+      - Be it firing up a fossil-fuel plant (though not without carbon capture) or starting up a nuclear plant, big batteries to save summer energy for the winter aren't yet going to cut it. Not at the dirt-cheap price we're used to paying for electricity.
+      - This is most challenging in places far from the Earth's equator, where less sunlight usually hits solar panels less directly in winter.
+      - Wind power similarly experiences seasonal highs and lows that we must be eager to deal with.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide6/anatoliy-shostak-v68Xr2H2Qn8-unsplash.jpg
+    image_align_h: -140
+    image_credit: Photograph by Anatoliy Shostak.
+7:
+  order: 8
+  text:
+    - Energiewende is German for Energy Turnaround, and refers not only to GHG-emissions-free but renewable sources of electricity---not nuclear. Germany's last three nuclear plants will shut down this year and coal plants as late as 2038. The program sets a goal of 80--95% GHG reduction by 2050 too, albeit relative to 1990 levels, already achieving 27% reduction as of 2014.
+    - In my opinion, nuclear is required to practically be able to achieve net zero by 2050, especially in countries with harsher winters. Fissile material, while not renewable, should be considered an option alongside renewable sources of energy.
+  post_image:
+    title: Germany's ambitious, multibillion-dollar <i>Energiewende</i> program sets a goal of <b>60% renewables by 2050</b>.
+    content:
+      - The fact that this is considered ambitious is a good thing---it means that people are more than willing to try.
+      - However, it is also a bad thing---it means that others don't believe this goal is attainable. But this goal must be attainable, because it is <em>necessary</em>. As humanity, we must reach as close to <b>net-zero emissions</b> as humanly possible. We need to act as quickly as possible.
+      - Germany, for example, increased its solar capacity <b>six-fold</b> in a two-year span. And that was a decade ago.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide7/Schneebergerhof_01.jpg
+    image_align_h: -300
+    image_caption: Schneebergerhof wind farm
+  notes:
+    - https://abcnews.go.com/Business/wireStory/explainer-germany-delaying-nuclear-shutdown-91663600
+    - https://en.wikipedia.org/wiki/Energiewende
+    - https://en.wikipedia.org/wiki/Energiewende#/media/File:Energy_transition_scenario_in_Germany.png
+    - https://en.wikipedia.org/wiki/Energiewende#/media/File:V4_Web_BOeLL-FF_Energiewende_(page_16_crop)_jobs.jpg
+    - https://en.wikipedia.org/wiki/Energiewende#/media/File:Power-plant-acceptance.jpg
+8:
+  order: 8
+  text: Wind turbines are incredible pieces of technology. Both wind turbines and solar cells use a technique called Maximum Power Point Tracking (MPPT) to maximize power output under different environmental conditions. Higher turbine speeds and cell voltages don't always mean more power---torque and electrical current also play a part.
+  post_image:
+    title: Wind turbines are shut down to stop cyclones from tearing them apart.
+    content:
+      - The weather can't be controlled (save for climate change)---but wind turbines sure can be.
+      - Left to spin freely, they won't always extract maximum power from the wind. But by controlling their speed---even spinning more slowly---wind turbines <b>maximize their power output</b>.
+      - Solar does the same thing. But how do you change how quickly your solar panel spins? (You don't.) Your solar setup changes its voltage to steal as much power as possible from the sun. That's before converting it to what eventually powers your TV, of course.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide8/Wind_Turbine_3_Easy-Resize.com.jpg
+    image_align_h: -200
+    image_credit: Rendering from <i>ABB</i>.
+9:
+  order: 10
+  text: This is incredible. The global population has boomed in the past 27 years, but it hasn't increased by 50%. Compare that to the ~200% (three-fold) increase in global electricity consumption in the past 27 years. The global electricity supply will have to increase up to three-fold again in the coming 27 years that lead us up to the 2050 climate goal---not accounting for the population growth in that time, which the UN estimates at ~15%. We have a lot of work ahead of us, but electrification is worth every dollar.
+  post_image:
+    title: The global supply of electricity will need to increase up to <b>three-fold by 2050</b>.
+    content:
+      - Most experts agree on this for the expected electrification of processes that currently produce CO_2---such as making cars electric.
+      - And this isn't even factoring in how much the world's population will have grown by that time, or greater electricity use per capita in general.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide9/peddi-sai-hrithik-WXbb4dFzUY8-unsplash.jpg
+    image_credit: Photograph by Peddi Sai Hrithik.
+    image_align_h: -200
+  notes:
+    - https://en.wikipedia.org/wiki/World_population#/media/File:World_Population_Prospects.svg
+    - https://duckduckgo.com/?t=ffab&q=world+electricity+consumption&ia=images&iax=images&iai=http%3A%2F%2Fworld-nuclear.org%2Fgetmedia%2F6ddc3a23-9165-42ef-8400-f2ee5dda9c31%2Fworld-electricity-consumption-region-hi-res.png.aspx%3Fwidth%3D2375%26height%3D1821%26ext%3D.png
+    - https://duckduckgo.com/?t=ffab&q=world+electricity+generation&iax=images&ia=images&iai=http%3A%2F%2Fenergyresilience.com.au%2Fwp-content%2Fuploads%2F2019%2F03%2FWorld-electricity-generation-by-power-station-type_DNV-GL-2018_Fig.-4.2.2.png
+    - https://duckduckgo.com/?t=ffab&q=world+electricity+capacity&ia=web
+10:
+  order: 11
+  text: Though far from commercial use, the National Renewable Energy Laboratory broke their own record in 2022 with a ~39.5% efficient solar cell. You don't have to be efficient when you're collecting free energy, but efficiency improvements help increase both generation and capacity.
+  post_image:
+    title: Generation is always less than capacity.
+    content:
+      - <b>Capacity</b> is how much power you <em>can</em> produce. For wind turbines, it's how much you produce when the wind's blowing the hardest in the right direction. For dust-free solar panels at the right temperature, it's when sunshine's hitting them at the best angle on a clear, sunny day.
+      - <b>Generation</b> is how much power you <em>do</em> produce. This especially matters for renewables, like wind and solar, which only generate electricity about 25--40% of the time anyway.
+      - But wind turbines and solar panels have been getting more and more efficient for decades.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide10/american-public-power-association-bv2pvCGMtzg-unsplash.jpg
+    image_align_h: -475
+    image_credit: Photograph by the American Public Power Association.
+  notes:
+    - https://duckduckgo.com/?t=ffab&q=solar+cell+efficiency&ia=web
+    - https://en.wikipedia.org/wiki/Solar-cell_efficiency#/media/File:Best-research-cell-efficiencies-rev220126_pages-to-jpg-0001.jpg
+    - https://www.solar.com/learn/solar-panel-efficiency/ "A thin layer of snow won't hinder solar efficiency much."
+11:
+  order: 14
+  text: Welp, what better challenge than a worthy one?
+  post_image:
+    title: Making the US electrical grid carbon-neutral by 2050 will require adding <b>two terawatts</b> of capacity.
+    content: That's about <b>70 gigawatts per year</b>, starting now---over triple what's been added annually in the past decade.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide11/chris-liverani-dBI_My696Rk-unsplash.jpg
+    image_align_h: -750
+    image_credit: Photograph by Chris Liverani.
+12:
+  order: 15
+  text: And the fact that my father-in-law's solar system can funnel enough sunlight on his garage to charge an EV is a testament both to how efficient solar panels have become---and to how much untapped energy our sun has to offer us!
+  post_image:
+    title: Solar cells cost little more than <b>10%</b> as much as they did a decade ago.
+    content: And in 2019 alone, for instance, the price of an entire solar system (not the outer-space kind) got 11% cheaper.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide12/zbynek-burival-V4ZYJZJ3W4M-unsplash.jpg
+    image_align_h: -950
+    image_credit: Photograph by Zbynek Burival.
+13:
+  order: 16
+  text: "This is a good (albeit paid) NYT article on the topic: https://www.nytimes.com/interactive/2023/06/12/climate/us-electric-grid-energy-transition.html"
+  post_image:
+    title: A country's electrical grid isn't one, unified network. It's <em>many</em>, and they're not necessarily even connected.
+    content:
+      - Sometimes it's impossible to share electricity between regions, even if doing so is highly valuable to meet emissions-reduction goals using fewer renewables.
+      - Electricity is usually shared using high-voltage direct current transmission lines, like the one between Washington and California, or the <i>TransWest Express</i>, which plans to deliver wind power from Wyoming to the US Southwest. And that's just in the US.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide13/nasa-_SFJhRPzJHs-unsplash.jpg
+    image_align_h: -475
+    image_credit: Photograph by NASA.
+14:
+  order: 18
+  text: And of course, there are new technologies and strategies that put the power into electricity consumers' hands, beyond the traditional generation-transmission-distribution model. For example, with private solar installations, we're seeing an increase in distributed energy resources. And with load curtailment programs that shift your HVAC schedule or EV charging to relieve strain on the electrical grid, we have more options moving forward than just building out more power plants and electrical infrastructure.
+  post_image:
+    title: There's often no way to achieve renewables and clean electricity goals without power grid enhancements.
+    content: We must <b>generate</b> electricity from renewables at strategic locations, <b>share</b> this clean electricity across unified power grids spanning multiple countries, and <b>deliver</b> this clean electricity to where it is needed via upgraded distribution infrastructure.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide14/james-wainscoat-ACc9WvDRJA8-unsplash.jpg
+    image_credit: Photograph by James Wainscoat.
+    image_align_h: -875
+15:
+  order: 19
+  text: This may seem like a lot---but think about how much energy flows through your home's natural gas supply when you crank up the thermostat in winter. Then think about the size of your oven's 50-amp, four-pronged power cord.
+  post_image:
+    title: As our homes start to depend more on electricity, our electrical services will need to be upgraded.
+    content: As we rely less and less on fossil fuels like natural gas and propane for heating and cooking, the capacity of our apartment buildings and houses' connection to the electrical grid will need to <b>at least double</b>.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide15/jon-moore-0MKzwPmehRE-unsplash.jpg
+    image_credit: Photograph by Jon Moore.
+    image_align_h: -175
+  notes:
+    - https://en.wikipedia.org/wiki/NEMA_connector#/media/File:NEMA_simplified_pins.svg
+    - https://www.gearit.com/blogs/news/what-is-a-nema-14-50-and-how-can-you-use-it
+16:
+  order: 20
+  text: "``You must construct additional pylons!'' Yes, because they're much more cost-effective!"
+  post_image:
+    title: Installing underground power lines costs <b>5 to 10 times</b> more than installing overhead power lines.
+    content:
+      - If you tried to take overhead power lines and just bury them, they wouldn't be able to dissipate the heat they produce fast enough. If they get too hot, they'll melt.
+      - "Certain companies are working on more advanced power lines that would solve the overheating problem without the extra cost. In the meantime, see above-ground infrastructure for what it is: part of steps to take to upgrade the electrical grid in favor of renewables, such as for replacing household natural gas with electricity."
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide16/american-public-power-association-hp1-hMaMBrU-unsplash.jpg
+    image_credit: Photograph by American Public Power Association.
+    image_align_h: -350
+17:
+  order: 21
+  text: With utility company names like ``HydroOttawa'' and ``HydroOne'', it's easy to be convinced that most of Ontario's electricity comes from hydro. It doesn't---it comes from nuclear. While hydro may be the cheapest source of electricity, nuclear is still more affordable (and safer) than gas-fired plants, and it provides a near-constant 8.6 megawatts of electricity around the clock, regardless of how bright the sun's shining or how hard the wind's blowing.
+  post_image:
+    title: The most affordable way to decarbonize our electrical grid likely involves using more nuclear energy.
+    content:
+      - "Nuclear energy, specifically nuclear fission, is the only source of electricity with all of the following advantages:"
+      - It doesn't produce greenhouse gas emissions (unlike coal and gas-fired plants).
+      - It isn't affected by changes in weather or daylight (unlike wind and solar). Nuclear plants often generate electricity 90% of the time.
+      - It can theoretically be used anywhere and has proven to work at a large scale, using very little land considering the amount of power produced
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide17/boudewijn-huysmans-IxUqE4nJ29I-unsplash.jpg
+    image_credit: Photograph by Boudewijn Huysmans.
+    image_align_h: -25
+  notes:
+    - https://www.ieso.ca/power-data
+    - https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-british-columbia.html
+18:
+  order: 22
+  text: In 2023, France exported 50 terawatt-hours of electricity to neighboring countries, 20% of which it supplied to Germany. This means that France beat the top hydro exporters Sweden and Norway as Europe's largest exporter of electricity. With its 56 nuclear power stations, France generated a whopping 320 terawatt-hours of electricity in 2023.
+  post_image:
+    title: France gets 70% of its electricity from nuclear power.
+    content: That's a lot. For the US, it's about 20%, which doesn't seem like a lot until compared to how much the world gets from wind and solar combined---only about 7% as of 2021.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide18/20100719110758!Nuclear_Power_Plant_Cattenom.jpg
+    image_caption: Cattenom nuclear power plant
+    image_credit: <small>Photograph CC BY-SA 3.0 by Stefan Kühn, cropped and retouched</small>.
+    image_align_h: -800
+  notes:
+    - https://www.rfi.fr/en/france/20240118-france-reclaims-title-as-europe-s-biggest-exporter-of-electricity
+19:
+  post_image:
+    title: Nuclear plants are built with less material per megawatt-hour than solar, hydropower, wind, and geothermal.
+    content:
+      - Less than two tons of material---mostly concrete---go into building a nuclear power plant on average for every megawatt-hour of electricity produced.
+      - For reference, about four tons of concrete, about eight tons of steel, about three tons of glass, and about two tons of other materials per megawatt-hour, on average, go into a solar farm.
+  notes:
+    - https://en.wikipedia.org/wiki/Cement
+    - "Concrete is the most widely used material in existence and is behind only water as the planet's most-consumed resource."
+20:
+  post_image:
+    title: Nuclear power is not 100% safe. Few energy sources are. But nuclear power is safer than fossil fuels.
+    content:
+      - "Specifically, nuclear power causes fewer deaths on average per megawatt-hour of electricity produced than burning any fossil fuel: about 7 deaths out of 100,000 people compared to about 2,460 deaths caused by coal alone---the worst offender."
+      - These take into account sourcing the fuels, any harmful air pollution, and everything in between.
+      - However, nuclear power plants can be made even safer through further innovation.
+21:
+  post_image:
+    title: The isotope of hydrogen often used as fuel for nuclear fusion can be sourced from seawater.
+    content: And for thousands of years to come---far longer than the time we have to act on climate change.
+22:
+  post_image:
+    title: Nuclear fusion, if achieved, would be safer than nuclear fission.
+    content: The waste products produced by nuclear fusion would be notably radioactive for hundreds rather than hundreds of thousands of years, and less so, compared to nuclear fission.
+  hidden: true
+23:
+  order: 4
+  text:
+    - Pie in the sky or not, here are some facts about nuclear fusion, sparked by the minor breakthrough made in the elusive field in December 2022 lest it be forgotten.
+    - Be it in fission or fusion, France is quite the leader in nuclear energy, with the ITER project being a prominent example of innovation in the latter.
+    - By the way, ``ITER'' is pronounced ``eater''.
+  post_image:
+    title: <i>ITER</i> is the largest nuclear fusion project that's being built.
+    content:
+      - Its construction starting in France in 2010, the experimental fusion reactor is planned to begin operating in the late 2030s, expected to produce more energy than it will consume---a breakthrough in the field of nuclear fusion.
+      - Nuclear fusion, if suitably achieved, would be safer than nuclear fission. The waste products produced by nuclear fusion would be notably radioactive for hundreds rather than hundreds of thousands of years, and less so, compared to nuclear fission.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide23/ITER_site_2018_aerial_view_(41809720041).jpg
+    image_align_h: -475
+    image_caption: ITER site in 2018
+    image_credit: Photograph from Oak Ridge National Laboratory.
+24:
+  post_image:
+    title: In 2019, only around 0.4% the world's electricity capacity was from offshore wind.
+    content:
+      - But because of its advantages---more reliable generation from ocean winds, and shorter power lines to coastal cities---the capacity of offshore wind farms has about doubled in the past three years.
+      - Europe is the main user of offshore wind---particularly the UK, due to investment subsidies. China will likely overtake them by the end of the decade.
+      - Meanwhile the US only has thirty megawatts' worth of offshore wind out of about a terawatt of electricity capacity nationwide---<em>double</em> of which could be covered by its offshore wind.
+25:
+  post_image:
+    title: Innovations made for the fossil fuel sector can help us find geothermal wells for carbon-free generation.
+    content:
+      - Around 40% of wells drilled for geothermal energy end up not being usable.
+      - Rather than continuing to use the technologies that make oil and gas so cheap, we can redeploy them to make it easier, safer, and more efficient to find and drill new geothermal wells.
+      - We should advance similar efforts to make renewable and carbon-free generation similarly inexpensive.
+26:
+  post_image:
+    title: <b>Grid-scale batteries</b> would power entire cities.
+    content:
+      - Though it is difficult to greatly improve the batteries we have now and grid-scale batteries are only in development, the idea behind grid-scale batteries is to save extra electricity generated from renewables in the summer for the winter. Or for times of poor weather, storms, or natural disasters.
+      - For instance, large <b>flow batteries</b> with even larger fuel tanks can scale well to deliver a lot of energy quickly. This year, China started operating the largest vanadium flow battery---weighing in at 400 MWh.
+  notes:
+    - https://en.wikipedia.org/wiki/Flow_battery
+27:
+  post_image:
+    title: <b>Pumped hydro</b> is currently the best, most realistic way of storing city-level amounts of energy.
+    content:
+      - It works like a two-way hydroelectric dam, but it doesn't need a natural river system.
+      - When there is a surplus of cheap electricity, like from wind or solar, it's used to pump massive amounts of water up a hill into a reservoir for storage. When there isn't enough electricity, the water is released to spin a turbine, re-generating about 3/4 of the electricity that went in.
+      - However, pumped hydro reservoirs are usually smaller than hydroelectric dams and for the daily rather than the seasonal storage that's called for by wind and solar.
+28:
+  post_image:
+    title: <b>Hydrogen fuel cells</b> are a potential alternative to grid-scale batteries and pumped hydro.
+    content:
+      - Extra wind or solar could be used to generate cheap, clean hydrogen from water through a process called <i>electrolysis</i>.
+      - We could store and ship the hydrogen where it's needed.
+      - When there isn't enough renewable electricity, the hydrogen can be slowly burned in a fuel cell, producing nothing but electricity and water.
+      - However, hydrogen is difficult to store in tight spaces without losing any, and much of it is produced with a carbon footprint for testing fuels cells---which are expensive but still being improved.
+29:
+  post_image:
+    title: "Hydrogen:<br>The electric fuel."
+    content:
+      - Fossil fuels' appeal was that lots of portable energy could be moved---by ship, train, truck, or pipeline---from where they're produced to where they're used. But that's like distributing electricity in the form of battery chemicals and throwing them away when spent. (Or, less wastefully, returning them to be recharged.)
+      - Awful yet convenient, we can't do that with raw electricity and move it from one place to another on the fly---we need a power grid
+      - But if we generate clean hydrogen, we might be able to ship and store it all we like.
+30:
+  post_image:
+    title: <b>Point capture</b> devices are installed in fossil- fuel-burning power plants to absorb around 90% of CO_2 emissions.
+    content:
+      - About 10% of coal plant emissions are CO_2.
+      - Unfortunately, carbon capture devices are expensive, despite having existed for decades.
+      - Plant operators have no incentive to use them without policies on energy and greenhouse gas emissions.
+      - We need more of these kinds of private and government policies to mitigate the impact of existing energy solutions in the short term until cleaner, long-term solutions are put into place.
+31:
+  post_image:
+    title: <b>Direct air capture</b> devices are like scuba divers' CO_2 scrubbers, but for the atmosphere we would die without.
+    content: But absorbing and storing CO_2 costs energy.
+32:
+  post_image:
+    title: Direct air capture devices will likely be vital for achieving net-zero carbon emissions.
+    content:
+      - A National Academy of Sciences study determined that we will need to directly capture and store around <b>10 billion tons of CO_2</b> by about 2050 and 20 billion tons 50 years after that---far in the future and yet approaching quickly.
+      - This will be a challenge because direct air capture's advantage in flexibility and portability is also to its detriment.
+      - The devices are inherently inefficient, being in an atmosphere of low CO_2 concentrations rather than fossil fuel plants' high concentrations of CO_2 emissions.
+33:
+  post_image:
+    title: A solar farm needs 5--50x as much land as an equivalent coal plant. Wind farm? 50--500x. But it's worth it.
+    content:
+      - It's worth it to achieve 100% emissions-free electricity.
+      - But the demand for electricity will have to increase quickly to make up for worse-polluting industries and for meeting the needs of an ever-increasing population.
+      - To make it more possible, we should all cut back on our electricity use where we can. We must follow initiatives to use more electricity when it's cheapest to generate---such as by wind and solar---rather than expecting coal plants to fire up in the evening in developed countries.
+34:
+  post_image:
+    title: Steel is infinitely recyclable.
+35:
+  order: 12
+  post_image:
+    title: The entirety of Africa only produces about 2% of the world's annual greenhouse gas emissions.
+    content:
+      - An average Kenyan, for instance, generates less than 2% as much CO_2 as an average American or Canadian. Yet a Kenyan farmer's livelihood will be far more heavily impacted by a changing climate than those with a surplus of income to cope with the adverse affects of climate change.
+      - We need to create new technologies and find new applications for existing ones, not only to stop developed societies from falling into poverty, but to <b>help lift developing communities out of poverty, sustainably</b>.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide35/Women_smallholder_farmers_in_Kenya.jpg
+    image_caption: Kenyan smallholder farmers
+    image_align_h: -400
+    image_credit: Photograph by McKay Savage.
+36:
+  order: 13
+  post_image:
+    title: Agricultural research is vital to feeding a hungrier world while coping with the effects of climate change.
+    content:
+      - Agricultural research organizations are tools that enable growing more food in increasingly harsh conditions, while improving nutrition and farmers' livelihoods in developing communities.
+      - For instance, the Consultive Group for International Agricultural Research (CGIAR) creates better plant genetics and produces stronger varieties of staple crops, like the wheat we consume, and flood- and drought-resistant rice and corn.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide36/Wheat-haHula-ISRAEL2.jpg
+    image_align_h: -400
+37:
+  text:
+    - This ambition of colonizing Mars demonstrates carelessness towards Earth and an empty promise to the vast majority of its population who would never be able to afford interplanetary relocation. Instead, we must invest our hope in our beautiful planet.
+    - This is an example of where we should not be asking ``Is it cool?'' but rather, ``Is it GOOD?''---to which a ``No'' is very easy to argue. Feel free to check my math.
+    - "Side note: Some say atmospheric carbon absorbed from Direct Air Capture (DAC) can be used to generate fuels, but DAC will not be viable compared to reducing emissions In the first place, especially when the absorbed carbon is just going to be burned again."
+  post_image:
+    title:
+      - The SpaceX Starship booster burns 4.6 tonnes of methane fuel, releasing 13 tonnes of CO_2 into our atmosphere...
+      - Every...
+      - Second.
+    content:
+      - That's as much CO_2 per second as 3 million cars, or 6000 commercial airliners.
+      - By its first stage separation 160 seconds later, Starship's booster has already polluted 2000 tonnes of CO_2. That's not including massive amounts of water vapor it creates in the atmosphere, which has a stronger GHG effect. Nor does it consider the Starship's second-stage spacecraft (pictured).
+      - SpaceX plans launching each Starship over 1000 times per year, in a fleet of 1000, to entertain its ill-conceived goal of colonizing Mars. With the numbers at hand, this corresponds to 3 billion tonnes of CO_2 per year---or a shocking 6% of humanity's current annual CO_2 emissions.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Starship/SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island_(cropped).jpg
+    image_align_h: -225
+    image_credit: Photograph by Forest Katsch.
+  notes:
+    - Starship is a superheavy lift vehicle designed to be used over and over.
+38:
+  text:
+    - Did the oil and gas companies (primarily Shell) say ``With BC's natural gas, we can reduce emissions in Asia!''? Of course not, they said ``With BC's natural gas, we can make a lot of money!''
+    - LNG Canada is owned by Shell (40%), Petronas (25%) of Malaysia, PetroChina (15%), Mitsubishi (15%), and Korea Gas (5%).
+  post_image:
+    title: "Regarding the claim that British Columbia Liquified Natural Gas (BCLNG) will reduce global emissions:"
+    content:
+      - A supposed selling point of BCLNG is that it will displace coal-fired plants in Asia.
+      - One of the best rules of thumb against this (and similar pro-BCLNG arguments) it is that most people didn't appear to care about emissions from Asia until the discovery that BC had a way to make the oil and gas industry a lot of money.
+      - The oil and gas industry didn't go looking for a solution to coal-fired plants in Asia. They (mainly Shell) looked for money, and used coal-fired plants in Asia as an excuse for taking that money at great cost to the environment.
+    image:
+    image_credit: Photograph by Trevor Leach.
+  notes:
+    - 40% of the LNG Canada Development group is owned by Shell, and the remaining 60% is owned by four different oil and gas companies in Asia.
+    - https://davidsuzuki.org/what-you-can-do/top-10-reasons-to-say-no-to-lng-in-b-c/
+    - https://en.m.wikipedia.org/wiki/Liquefied_natural_gas
+    - https://www.cmu.edu/news/stories/archives/2015/february/exporting-natural-gas.html
+    - https://www.sightline.org/2017/05/23/lng-giants-of-the-sea-headed-for-bc-waters/
+39:
+  post_image:
+    title: Have you ever wondered whether building rooftop solar is as efficient as building a solar farm?
+    content:
+      - "The answer won't surprise you: It's not."
+      - While the installation costs are similar, the Brattle Group concluded that the long-term cost per kWh from solar farms is about half as much as for rooftop solar.
+      - "That being said, solar is cheaper than ever. Other considerations include:"
+      - <b>Aesthetics</b>. Rooftop solar looks great.
+      - <b>Land use</b>. Solar farms take up space, although agrivoltaics seeks to counter this.
+      - <b>Maintenance</b>. Solar farms are more convenient to repair.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide39/giorgio-trovato-mIlvCv21W1s-unsplash.jpg
+    image_align_h: -800
+    image_credit: Photograph by Giorgio Trovato.
+  notes:
+    - https://www.solarpowerauthority.com/rooftop-solar-vs-solar-farms/
+    - - A matter of Aesthetics, Land Management, Maintenance, Energy Independence, and Cost (why is this last?).
+    - https://www.cbc.ca/news/canada/calgary/travers-solar-project-vulcan-1.6233629
+    - https://www.nationalobserver.com/2024/09/04/news/ontario-ban-solar-installations-prime-farmland-agrivoltaics
+40:
+  post_image:
+    title: When demand exceeds supply, the frequency of the electrical grid decreases.
+    content:
+      - Normally, the grid operates at 60 Hz (or 50 Hz in Europe).
+      - But what if the demand for electricity is lower than the supply? Then this frequency will decrease, as turbines and generators slow down to temporarily produce more power---signalling that more generation must be brought online.
+      - But power plants are not designed to operate at different frequencies, so if more generation is unavailable, then load-shedding programs must be used to re-balance the grid.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide40/1512px-Turbogenerator01.jpeg
+    image_align_h: -850
+    image_credit: <small>Photograph CC BY-SA 3.0 by Siemens Germany, cropped.</small>
+    image_caption: Boxberg Power Station
+  notes:
+    - https://en.wikipedia.org/wiki/Grid_balancing
+    - https://en.wikipedia.org/wiki/Inertial_response
+    - https://en.wikipedia.org/wiki/Ancillary_services_(electric_power) > Frequency control
+    - https://en.wikipedia.org/wiki/Turbo_generator
+    - https://en.wikipedia.org/wiki/Electric_generator
+    - https://en.wikipedia.org/wiki/Alternator
+41:
+  notes: Thermal solar power plant
+42:
+  order: 17
+  text:
+  - BluWave-ai's next installment in their Global Energy Transition Summit focuses on optimizing grid-level energy storage using artificial intelligence.
+  - Guests from Hydro Ottawa, the IESO, the Ontario Energy Board, the City of Summerside, and Brookfield Renewable will discuss important topics on energy management with vital implications for renewables and phasing out fossil fuels.
+  - The panel will be hosted on November 5 at Invest Ottawa's Bayview Yards venue. Register at https://www.eventbrite.ca/e/bluwave-ai-summit-ai-driven-grid-storage-optimization-tickets-1056772658469 if interested.
+  post_image:
+    title: Grid-scale energy storage---and controlling it optimally---is a vital part of securing more renewable energy.
+    content: By storing surpluses of renewable energy, and making up for renewable sources on cloudy days or when the wind is calm, grid storage makes renewables an affordable and threatening competitor for fossil fuels.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide42/1440px-Invenergy_Beech_Ridge_Energy_Storage_System.jpeg
+    image_align_h: -300
+    image_credit: <small>Photograph CC BY-SA 4.0 by Z22, cropped.</small>
+    image_caption: 31-MW battery energy storage system at Beech Ridge wind farm.
