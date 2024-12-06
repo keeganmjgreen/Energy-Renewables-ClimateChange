@@ -208,7 +208,7 @@ $schema: posts_yml_schema.json
       - If you tried to take overhead power lines and just bury them, they wouldn't be able to dissipate the heat they produce fast enough. If they get too hot, they'll melt.
       - "Certain companies are working on more advanced power lines that would solve the overheating problem without the extra cost. In the meantime, see above-ground infrastructure for what it is: part of steps to take to upgrade the electrical grid in favor of renewables, such as for replacing household natural gas with electricity."
     image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide16/american-public-power-association-hp1-hMaMBrU-unsplash.jpg
-    image_credit: Photograph by American Public Power Association.
+    image_credit: Photograph by the American Public Power Association.
     image_align_h: -350
 17:
   order: 21
@@ -459,3 +459,22 @@ $schema: posts_yml_schema.json
     image_align_h: -300
     image_credit: <small>Photograph CC BY-SA 4.0 by Z22, cropped.</small>
     image_caption: 31-MW battery energy storage system at Beech Ridge wind farm.
+43:
+  text: Read more at https://www.nationalobserver.com/2022/04/27/explainer/canada-banks-funding-climate-change-fossil-fuels.
+  post_image:
+    title: RBC, Scotiabank, TD, BMO, and CIBC are, in that order, among the top 20 global fossil fuel financiers.
+    content:
+    - Canada's ``Big 5'' banks frequently release pro-sustainability marketing material.
+    - However, having funded $1 trillion in fossil fuel projects in the past decade, and tens of billions into Canada's own oilsands, these banks' memberships to organizations such as the Net-Zero Banking Alliance and the Glasgow Financial Alliance for Net-Zero fall nothing short of ironic.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide43/dillon-kydd-CE28Bi9xrwE-unsplash.jpg
+    image_credit: Photograph by Dillon Kydd.
+44:
+  post_image:
+    title: Canada's ``Big 5'' banks often form financing syndicates to fund money-hungry fossil fuel projects.
+    content:
+    - While the Big 5 seek perception as sustainability leaders, they frequently say one thing and do another.
+    - For example, the Big 5 provided $200 million of financing for the Coastal GasLink pipeline in BC, and many more Canadian financial institutions helped fund a $1 billion deal with Enbridge purported to be working toward a sustainable future.
+    - All while the Bank of Canada is warning financial institutions about being stuck with potentially useless fossil fuel assets during a global energy transition.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/Images/Slide44/american-public-power-association-bv2pvCGMtzg-unsplash.jpg
+    image_align_h: -375
+    image_credit: Photograph by the American Public Power Association.
