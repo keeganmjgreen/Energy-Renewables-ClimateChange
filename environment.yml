@@ -1,0 +1,9 @@
+name: ercc
+dependencies:
+  - python
+  - pip
+  - pip:
+      - html2image
+      - ipykernel
+      - jinja2
+      - pyyaml
