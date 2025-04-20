@@ -235,16 +235,22 @@ $schema: posts_yml_schema.json
     image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/images/18/20100719110758!Nuclear_Power_Plant_Cattenom-retouched.jpg
     image_caption: Cattenom nuclear power plant
     image_credit: <small>Photograph CC BY-SA 3.0 by Stefan Kühn, cropped and retouched.</small>
-    image_align_h: -800
+    image_align_h: -785
   notes:
     - https://www.rfi.fr/en/france/20240118-france-reclaims-title-as-europe-s-biggest-exporter-of-electricity
     - 7.2% Wind + 4.4% Solar PV = 11.6% total = ~12%, from https://www.iea.org/world/energy-mix > "Electricity generation" > "Electricity Generation, World, 2022"
 19:
+  order: 23
+  text: Compared to other types of power plants, nuclear produces more energy for a fraction of the building materials, reducing its cost, space, and environmental impact. However, unlike wind and solar, building a nuclear plant can be an expensive and decade-long commitment.
   post_image:
     title: Nuclear plants are built with less material per megawatt-hour than solar, hydropower, wind, and geothermal.
     content:
       - Less than two tons of material---mostly concrete---go into building a nuclear power plant on average for every megawatt-hour of electricity produced.
       - For reference, about four tons of concrete, about eight tons of steel, about three tons of glass, and about two tons of other materials per megawatt-hour, on average, go into a solar farm.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/images/19/daniele-la-rosa-messina---t5njUzxcs-unsplash-Leibstadt-Nuclear-Power-Plant.jpg
+    image_caption: Leibstadt nuclear power plant, Switzerland
+    image_credit: Photograph Daniele La Rosa Messina.
+    image_align_h: -50
   notes:
     - https://en.wikipedia.org/wiki/Cement
     - "Concrete is the most widely used material in existence and is behind only water as the planet's most-consumed resource."
@@ -255,6 +261,8 @@ $schema: posts_yml_schema.json
       - "Specifically, nuclear power causes fewer deaths on average per megawatt-hour of electricity produced than burning any fossil fuel: about 7 deaths out of 100,000 people compared to about 2,460 deaths caused by coal alone---the worst offender."
       - These take into account sourcing the fuels, any harmful air pollution, and everything in between.
       - However, nuclear power plants can be made even safer through further innovation.
+  notes:
+    - https://en.wikipedia.org/wiki/Nuclear_power_plant#/media/File:Hypothetical_number_of_deaths_from_energy_production,_OWID.svg
 21:
   post_image:
     title: The isotope of hydrogen often used as fuel for nuclear fusion can be sourced from seawater.
