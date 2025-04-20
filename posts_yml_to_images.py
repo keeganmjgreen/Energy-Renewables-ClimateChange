@@ -7,11 +7,10 @@ from pathlib import Path
 from typing import Any, Dict, List, Union
 
 import yaml
-from html2image import Html2Image
 from jinja2 import Environment, FileSystemLoader
 
 env = Environment(
-    loader=FileSystemLoader("Energy-Renewables-ClimateChange/post_template/")
+    loader=FileSystemLoader("Energy-Renewables-ClimateChange/")
 )
 template = env.get_template("template.jinja.html")
 
@@ -146,20 +145,23 @@ class PostCollection:
             f.writelines(post.to_markdown() for post in posts)
 
     def posts_to_images(self, post_indices: Union[List[int], None] = None) -> None:
-        hti = Html2Image(size=(1200, 1200))
-
         for post in self.posts.values():
             if post_indices is not None and post.index not in post_indices:
                 continue
             if post.hidden:
                 continue
             output = template.render(**post.post_image.__dict__)
-            hti.screenshot(
-                html_str=output,
-                css_file="Energy-Renewables-ClimateChange/post_template/styles.css",
-                save_as=post.post_image_fname,
+            Path(f"{post.index}.html").write_text(output)
+            os.system(
+                "~/chrome-headless-shell/linux-135.0.7049.95/chrome-headless-shell-linux64/chrome-headless-shell "
+                "--no-sandbox "
+                f"--screenshot=posts/{post.post_image_fname} "
+                "--window-size=1200,1200 "
+                "--hide-scrollbars "
+                f"{post.index}.html"
             )
-            os.system(f"code {post.index}.png")
+            os.system(f"rm {post.index}.html")
+            os.system(f"code posts/{post.post_image_fname}")
 
             print(f"\n{post.text}\n")
 
