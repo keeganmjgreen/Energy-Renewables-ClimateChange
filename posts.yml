@@ -249,19 +249,26 @@ $schema: posts_yml_schema.json
       - For reference, about four tons of concrete, about eight tons of steel, about three tons of glass, and about two tons of other materials per megawatt-hour, on average, go into a solar farm.
     image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/images/19/daniele-la-rosa-messina---t5njUzxcs-unsplash-Leibstadt-Nuclear-Power-Plant.jpg
     image_caption: Leibstadt nuclear power plant, Switzerland
-    image_credit: Photograph Daniele La Rosa Messina.
+    image_credit: Photograph by Daniele La Rosa Messina.
     image_align_h: -50
   notes:
     - https://en.wikipedia.org/wiki/Cement
     - "Concrete is the most widely used material in existence and is behind only water as the planet's most-consumed resource."
 20:
+  order: 24
+  text: Nuclear power in Japan, even with the Fukushima disaster, is safer than generating electricity from coal or natural gas; nuclear power has reduced fewer years of life than coal or natural gas would've had nuclear plants never been built.
   post_image:
     title: Nuclear power is not 100% safe. Few energy sources are. But nuclear power is safer than fossil fuels.
     content:
-      - "Specifically, nuclear power causes fewer deaths on average per megawatt-hour of electricity produced than burning any fossil fuel: about 7 deaths out of 100,000 people compared to about 2,460 deaths caused by coal alone---the worst offender."
+      - "Specifically, nuclear power causes fewer deaths on average per terawatt-hour of electricity produced than burning any fossil fuel: about 0.07 deaths or fewer compared to about 25 deaths caused by coal alone---the worst offender."
       - These take into account sourcing the fuels, any harmful air pollution, and everything in between.
       - However, nuclear power plants can be made even safer through further innovation.
+    image: /home/keegan_green/Dropbox/Documents/Projects/ERCC/images/20/lukas-lehotsky-Xhle0cfnKrg-unsplash-Dukovany-Nuclear-Power-Station.jpg
+    image_caption: Dukovany nuclear power plant, Czech Republic
+    image_credit: Photograph by Lukas Lehotsky.
+    image_align_h: -50
   notes:
+    - https://en.wikipedia.org/wiki/Nuclear_power#Safety
     - https://en.wikipedia.org/wiki/Nuclear_power_plant#/media/File:Hypothetical_number_of_deaths_from_energy_production,_OWID.svg
 21:
   post_image:

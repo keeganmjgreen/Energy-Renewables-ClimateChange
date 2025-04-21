@@ -162,7 +162,7 @@ This may seem like a lot—but think about how much energy flows through your ho
 
 ### As our homes start to depend more on electricity, our electrical services will need to be upgraded.
 
-<p>As we rely less and less on fossil fuels like natural gas and propane for heating and cooking, the capacity of our apartment buildings and houses’ connection to the electrical grid will need to <b>at least double</b>.</p>
+<p>As we rely less and less on fossil fuels like natural gas and propane for heating and cooking, the capacity of our apartment buildings and houses’ connections to the electrical grid will need to <b>at least double</b>.</p>
 
 ## Post 20
 
@@ -174,11 +174,11 @@ This may seem like a lot—but think about how much energy flows through your ho
 
 ## Post 21
 
-With utility company names like “HydroOttawa” and “HydroOne”, it’s easy to be convinced that most of Ontario’s electricity comes from hydro. It doesn’t—it comes from nuclear. While hydro may be the cheapest source of electricity, nuclear is still more affordable (and safer) than gas-fired plants, and it provides a near-constant 8.6 megawatts of electricity around the clock, regardless of how bright the sun’s shining or how hard the wind’s blowing.
+With utility company names like “HydroOttawa” and “HydroOne,” it’s easy to be convinced that most of Ontario’s electricity comes from hydro. It doesn’t—it comes from nuclear. While hydro may be the cheapest source of electricity, nuclear is still more affordable (and safer) than gas-fired plants, and it provides a near-constant ~9 megawatts of electricity around the clock, regardless of how bright the sun’s shining or how hard the wind’s blowing.
 
-### The most affordable way to decarbonize our electrical grid likely involves using more nuclear energy.
+### The most affordable way to fully decarbonize our electrical grid likely involves using more nuclear energy.
 
-<p>Nuclear energy, specifically nuclear fission, is the only source of electricity with all of the following advantages:</p><p>It doesn’t produce greenhouse gas emissions (unlike coal and gas-fired plants).</p><p>It isn’t affected by changes in weather or daylight (unlike wind and solar). Nuclear plants often generate electricity 90% of the time.</p><p>It can theoretically be used anywhere and has proven to work at a large scale, using very little land considering the amount of power produced</p>
+<p>Nuclear energy, specifically nuclear fission, is the only source of electricity with all of the following advantages:</p><p>It doesn’t produce greenhouse gas emissions (unlike coal and gas-fired plants).</p><p>It isn’t affected by changes in weather or daylight (unlike wind and solar). Nuclear plants often generate electricity 90% of the time.</p><p>It can theoretically be used anywhere and has proven to work at a large scale, using very little land considering the amount of power produced.</p>
 
 ## Post 22
 
@@ -186,5 +186,21 @@ In 2023, France exported 50 terawatt-hours of electricity to neighboring countri
 
 ### France gets 70% of its electricity from nuclear power.
 
-<p>That’s a lot. For the US, it’s about 20%, which doesn’t seem like a lot until compared to how much the world gets from wind and solar combined—only about 7% as of 2021.</p>
+<p>That’s a lot. For the US, it’s about 20%, which doesn’t seem like a lot until compared to how much the world gets from wind and solar combined—in 2022, only about 12%.</p>
+
+## Post 23
+
+Compared to other types of power plants, nuclear produces more energy for a fraction of the building materials, reducing its cost, space, and environmental impact. However, unlike wind and solar, building a nuclear plant can be an expensive and decade-long commitment.
+
+### Nuclear plants are built with less material per megawatt-hour than solar, hydropower, wind, and geothermal.
+
+<p>Less than two tons of material—mostly concrete—go into building a nuclear power plant on average for every megawatt-hour of electricity produced.</p><p>For reference, about four tons of concrete, about eight tons of steel, about three tons of glass, and about two tons of other materials per megawatt-hour, on average, go into a solar farm.</p>
+
+## Post 24
+
+Nuclear power in Japan, even with the Fukushima disaster, is safer than generating electricity from coal or natural gas; nuclear power has reduced fewer years of life than coal or natural gas would’ve had nuclear plants never been built.
+
+### Nuclear power is not 100% safe. Few energy sources are. But nuclear power is safer than fossil fuels.
+
+<p>Specifically, nuclear power causes fewer deaths on average per terawatt-hour of electricity produced than burning any fossil fuel: about 0.07 deaths or fewer compared to about 25 deaths caused by coal alone—the worst offender.</p><p>These take into account sourcing the fuels, any harmful air pollution, and everything in between.</p><p>However, nuclear power plants can be made even safer through further innovation.</p>
 
